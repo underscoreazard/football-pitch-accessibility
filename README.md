@@ -1,5 +1,3 @@
-Temp
-
 # Comparing NYC and Paris Soccer Pitch Accessibility
 
 A spatial analysis evaluating urban recreational equity and 15-minute pedestrian accessibility to soccer pitches in New York City and Paris.
